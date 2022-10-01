@@ -2517,8 +2517,7 @@ go.wechat.com
 gp.linkedin.com
 gp.0000.com
 gpstream.mobi0.freebasics.com
-gq1.farm3.static.flickr.com
-gql.0000.com
+gq1.farm3.static.flickr.c
 g.qzone.qq.com
 graph.expresswifi.com
 graph-expresswifi-com.tokenizerdogfood.in.expresswifi.com
@@ -3016,8 +3015,6 @@ i.po.st
 ipv8.telegram.org
 iq.linkedin.com
 i.000.it
-i.0000.com
-i.0000media.com
 i.0000uploads.com
 ir.linkedin.com
 isecom.slack.com
@@ -3905,7 +3902,6 @@ o1.email.medium.com
 o1.emails.the-dots.com
 o2.email.medium.com
 o5.email.medium.com
-oauth.0000.com
 oauth.telegram.org
 oauth.vk.com
 o.beta.facebook.com
