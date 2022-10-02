@@ -1,3 +1,3 @@
 # personalblocklistbyenergized
-My Personal Blocklist frpm energized.pro
+My Personal Blocklist from energized.pro
 for private use
