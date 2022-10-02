@@ -24,12 +24,12 @@
 # Title: Energized Social Extension
 # Description: Social Sites and Apps Blocking.
 # Format: domain list
-# Version: 22.10.274
-# Release: 274
+# Version: 22.10.275
+# Release: 275
 # Entries: 6,974
 # Pack Code: EX50C14L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 01 Oct 22 21:09:24 +06
+# Updated: Sun, 02 Oct 22 17:12:33 +06
 # RAW: https://block.energized.pro/extensions/social/formats/domains.txt
 # --------------------------------------------
 #
@@ -1032,7 +1032,6 @@ blog.bizsugar.com
 blog-cms.line.me
 blog.datememe.com
 blog.del.icio.us
-blog.discordapp.com
 blog.facebook.com
 blog.flickr.com
 blog.freebasics.com
@@ -1069,7 +1068,6 @@ bn.datememe.com
 b.ns.cdninstagram.com
 b.ns.facebook.com
 board-games.meetup.com
-bondage.0000.com
 bookf.i.org
 booking.freebasics.com
 book.weibo.com
@@ -1099,7 +1097,6 @@ bsh.z.qq.com
 b.static.ak.facebook.com
 b.static.ak.fbcdn.net
 b.telegram.org
-b.thumbs.0000media.com
 btrace.qq.com
 btrace.video.qq.com
 bubble-of-marwie.skyrock.com
@@ -1125,7 +1122,6 @@ business.weheartit.com
 button.flattr.com
 button-follow.zalo.me
 button-share.zalo.me
-buttons.0000.com
 buy.line.me
 buzzbuttons.com
 b-www.facebook.com
@@ -1146,7 +1142,6 @@ campaign.line.me
 campaigns.snapfish.com
 camp-envy.irc.slack.com
 ca.myspace.com
-canary.discordapp.com
 canary.pinterest.com
 canli.i.org
 canoeing-canoe-camping.meetup.com
@@ -1181,15 +1176,12 @@ cdn-5.bizsugar.com
 cdn-7.bizsugar.com
 cdn-audio-1.medium.com
 cdn.bizsugar.com
-cdn-canary.discordapp.com
-cdn.discordapp.com
 cdn-globe.0.i.org
 cdn-images-1.medium.com
 cdn-images-2.medium.com
 cdninstagram.com
 cdn.kik.com
 cdn.medium.com
-cdn-ptb.discordapp.com
 cdn-static-1.medium.com
 cdn.syndication.twimg.com
 cdn.syndication.twitter.com
@@ -1210,7 +1202,6 @@ cftn.i.org
 cgi.connect.qq.com
 cgi.im.qq.com
 cgsikcuek.i.org
-championmains.0000.com
 changetip.com
 channel-ecmp-05-ash3.facebook.com
 channel-proxy-shv-04-frc3.facebook.com
@@ -1388,7 +1379,6 @@ cpa.meetme.com
 cpanel.internet.org
 cp.vk.com
 cqby.yy.com
-crash.discordapp.com
 crashlogs.whatsapp.net
 crash-reporting.yy.com
 create.snapfish.com
@@ -1401,7 +1391,6 @@ creator-static.line.me
 credit-account.staging.viber.com
 criticalmass.meetup.com
 cryptocatz.slack.com
-cryptocurrency.0000.com
 cs10246.vk.com
 cs11063.vk.com
 cs11329.vk.com
@@ -1435,14 +1424,11 @@ csp.medium.com
 csp.skype.com
 csr.integration.viber.com
 csync.flickr.com
-c.thumbs.0000media.com
 c.tieba.baidu.com
 ct-m-fbx.fbsbx.com
 ct.pinterest.com
-cuckoldstories.0000.com
 cvsws.snapfish.com
 c.weibo.com
-cw.0000.com
 cyber-phreaker-medan.0.internet.org
 cyber-phreaker-medan.internet.org
 cy.linkedin.com
@@ -1454,7 +1440,6 @@ da-dk.facebook.dk
 damon-and-elena-forever.skyrock.com
 dance-parties.meetup.com
 danone.m.facebook.com
-darknetmarketsnoobs.0000.com
 data.gotinder.com
 data.linkedin.com
 data.weibo.com
@@ -1482,16 +1467,13 @@ delima.line.me
 de.linkedin.com
 deloitte.m.facebook.com
 de.m.meetme.com
-democraciv.0000.com
 demo.gotinder.com
 de.myspace.com
 denisepruettphotography.plus.google.com
 deniskazminworkplace.slack.com
 deondeshaun.skyrock.com
 de.pinterest.com
-depressionregamins.0000.com
 de.profile.meetme.com
-de.0000.com
 desctop.telegram.org
 designer.snapfish.com
 deskpot.telegram.org
@@ -1559,7 +1541,6 @@ digitalfuelmarketing.slack.com
 direct.musical.ly
 direct.static.tagged.com
 direct.www.tagged.com
-discordapp.com
 discoverapp.com
 discover.viber.com
 discovery-aus.snapfish.com
@@ -1582,7 +1563,6 @@ dlxodud1719.i.org
 dm.bytedance.com
 dm-maliva16.byteoversea.com
 dm.m.facebook.com
-dm.0000.com
 dnet.expresswifi.com
 dns1.myspace.com
 dns2.myspace.com
@@ -1624,16 +1604,13 @@ dp.odnoklassniki.ru
 dqy.yy.com
 dragon.cdninstagram.com
 dream-writting.skyrock.com
-d.0000.com
 drumcircle.meetup.com
 dscvr.i.org
 dsmnew.odnoklassniki.ru
 dsm.odnoklassniki.ru
 dsp.odnoklassniki.ru
-ds.0000.com
 dtac.0.co.th.0.freebasics.com
 dtac.freebasics.com
-d.thumbs.0000media.com
 dualstack.pinterest.map.fastly.net
 d.vvv.facebook.com
 dw.com.0.freebasics.com
@@ -1665,7 +1642,6 @@ ec.line.me
 ec.linkedin.com
 economicgraph.linkedin.com
 economy.gateway.tagged.com
-edefreiheit.0000.com
 ed.facebook.com
 edge101.weheartit.com
 edge102.weheartit.com
@@ -2055,7 +2031,6 @@ elite-operamini.internet.org
 elkjopnordic.m.facebook.com
 elk.kik.com
 email.kik.com
-email.mailgun.discordapp.com
 email.pinterest.com
 emails.snapfish.com
 email.swarmapp.com
@@ -2064,8 +2039,6 @@ embed.periscope.tv
 embedr.flickr.com
 embed.tumblr.com
 emlclick.newsletter.swarmapp.com
-emoji.0000media.com
-emulation.0000.com
 emyfs.bs2cdn.yy.com
 emyfs.bs2dl.yy.com
 en.datememe.com
@@ -2081,7 +2054,6 @@ engineering.tumblr.com
 engineering.twitter.com
 eng.twitter.com
 en.mail.qq.com
-en.0000.com
 ent-a.xx.fbcdn.net
 ent-b.xx.fbcdn.net
 ent-c.xx.fbcdn.net
@@ -2095,11 +2067,9 @@ ent-e.xx.fbcdn.net
 entraigues2418.skyrock.com
 entrepreneur.meetup.com
 entry-at.line.me
-en-us.0000.com
 envoyproxy.slack.com
 ep.i.org
 equinit.i.org
-e.0000.com
 error2.myspace.com
 error.facebook.com
 es.api.meetme.com
@@ -2119,12 +2089,10 @@ es.m.meetme.com
 es.myspace.com
 es.pinterest.com
 es.profile.meetme.com
-es.0000.com
 es.swarmapp.com
 es.www.meetme.com
 et-ee.facebook.com
 e.telegram.org
-e.thumbs.0000media.com
 ethx.i.org
 etiservicepomeziasrl.slack.com
 eu1.badoo.com
@@ -2138,8 +2106,6 @@ eu-turn.badoo.com
 eu-west-1.dc.ads.linkedin.com
 events.linkedin.com
 events.myspace.com
-events.0000.com
-events.0000media.com
 events.twitter.com
 event-web.line.me
 event.weibo.com
@@ -2184,7 +2150,6 @@ external.fvit1-1.fna.fbcdn.net
 external-hkg3-1.xx.fbcdn.net
 external-iad3-1.xx.fbcdn.net
 external-ort2-1.xx.fbcdn.net
-external-preview.000.it
 external-prg1-1.cdninstagram.com
 external-vie1-1.cdninstagram.com
 external-waw1-1.cdninstagram.com
@@ -2291,7 +2256,6 @@ fb-us1.badoo.com
 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 fed.renren.com
 feedback.camera.wechat.com
-feedback.discordapp.com
 feedback.odnoklassniki.ru
 feedback.wechat.com
 feedback.weheartit.com
@@ -2339,7 +2303,6 @@ flower.qzone.qq.com
 flynorra.m.facebook.com
 fmel2-1.fbcdn.net
 fm.qzone.qq.com
-fn-00.0000.com
 fna.fbcdn.net
 fna-fbcdn-shv-01-fmaa1.fbcdn.net
 fna-fbcdn-shv-02-fdet1.fbcdn.net
@@ -2421,11 +2384,9 @@ frontier.musical.ly
 fr.pinterest.com
 fr.plus.google.com
 fr.profile.meetme.com
-fr.0000.com
 fr.ssl.meetme.com
 fr.swarmapp.com
 fr.www.meetme.com
-f.thumbs.0000media.com
 ftp.freebasics.com
 ftp.internet.org
 ftp.mx.freebasics.com
@@ -2444,7 +2405,6 @@ gamebeyts.ph.i.org
 game-blog.line.me
 gamebytes.i.org
 gamebytes.ph.i.org
-gamedevs.discordapp.com
 game.line.me
 gameq.renren.com
 game-report.yy.com
@@ -2454,7 +2414,6 @@ games.wechat.com
 game.weibo.com
 gamma.whatsapp.com
 gardening.meetup.com
-gateway.0000.com
 gator719.plus.google.com
 gb.linkedin.com
 gbot.integrations.telegram.org
@@ -2515,9 +2474,8 @@ govtech.m.facebook.com
 govtrequests.facebook.com
 go.wechat.com
 gp.linkedin.com
-gp.0000.com
 gpstream.mobi0.freebasics.com
-gq1.farm3.static.flickr.c
+gq1.farm3.static.flickr.com
 g.qzone.qq.com
 graph.expresswifi.com
 graph-expresswifi-com.tokenizerdogfood.in.expresswifi.com
@@ -2528,7 +2486,6 @@ graph.internet.org
 graph.renren.com
 graph-video.facebook.com
 graph.whatsapp.net
-g.0000media.com
 gr.linkedin.com
 group-fitness-training.meetup.com
 groups.flickr.com
@@ -2763,11 +2720,9 @@ hunu.m.facebook.com
 huodong.weibo.com
 hu.pinterest.com
 hv-static.flickr.com
-hw.0000.com
 hydra.qzone.qq.com
 hyperlapse.instagram.com
 hz.house.qq.com
-i18n.discordapp.com
 ia101.odnoklassniki.ru
 ia102.odnoklassniki.ru
 ia110.odnoklassniki.ru
@@ -2812,7 +2767,6 @@ iictt.m.facebook.com
 i.i.i.org
 ii.i.org
 i.instagram.com
-ikd.0000.com
 il.linkedin.com
 im13v4.vk.com
 im18v4.vk.com
@@ -3014,8 +2968,6 @@ ipip.yy.com
 i.po.st
 ipv8.telegram.org
 iq.linkedin.com
-i.000.it
-i.0000uploads.com
 ir.linkedin.com
 isecom.slack.com
 is-is.facebook.com
@@ -3035,14 +2987,11 @@ itmachine.slack.com
 it.m.meetme.com
 it.pinterest.com
 it.profile.meetme.com
-it.0000.com
 itsumma-inbet.slack.com
 it.swarmapp.com
 ituc-cs.i.org
 it.www.meetme.com
-iu.0000.com
 ivwebcontent.telegram.org
-iy.0000.com
 ja.api.meetme.com
 ja.datememe.com
 ja-jp.facebook.com
@@ -3054,7 +3003,6 @@ ja.swarmapp.com
 javascript.internet.org
 jawabarat.internet.org
 ja.www.meetme.com
-jb-47.0000.com
 jcdecaux-fr.expresswifi.com
 jc.i.org
 jeffspicol.i.org
@@ -3068,7 +3016,6 @@ jira.gotinder.com
 jira.internet.org
 jjfoknt.i.org
 jjhgh.i.org
-jm.0000.com
 jneurosc.i.org
 job.renren.com
 jobs0.meetup.com
@@ -3157,7 +3104,6 @@ leclerc.m.facebook.com
 legal.medium.com
 legal.twitter.com
 legox.yy.com
-legs.0000.com
 lensstudio.snapchat.com
 lesbian-dating.meetup.com
 lesbians-over-40.meetup.com
@@ -3272,7 +3218,6 @@ mail01.linkedin.com
 mail02.linkedin.com
 mail03.linkedin.com
 mail04.linkedin.com
-mail2.static.discordapp.com
 mail2.support.snapchat.com
 mail72.odnoklassniki.ru
 maila11.telegram.org
@@ -3293,11 +3238,9 @@ mail.mx.imap.m.vk.com
 mail.mx.mx.m.vk.com
 mail.myspace.com
 mail.odnoklassniki.ru
-mail-p236.0000.com
 mail.pinterest.com
 mail.plus.google.com
 mail.pop.ftp.vk.com
-mail.0000.com
 mails11.telegram.org
 mail.telegram.org
 mail-test.linkedin.com
@@ -3450,7 +3393,6 @@ meme.kik.com
 memr.i.org
 men-and-women-golf.meetup.com
 mentor.linkedin.com
-merch.discordapp.com
 message.myspace.com
 messages-facebook.com
 messages.meetme.com
@@ -3460,7 +3402,6 @@ messaging.myspace.com
 messenger.com
 messenger.telegram.org
 messymarv.skyrock.com
-meta-api.0000.com
 me.telegram.org
 methongtha.i.org
 metric.gotinder.com
@@ -3533,12 +3474,10 @@ mobioinc.slack.com
 mode-et-swagg.skyrock.com
 modeling.meetup.com
 m.odnoklassniki.ru
-mod.0000.com
 moelven.m.facebook.com
 mohnishhahluwalia.skyrock.com
 mo.indosat.com.internet.org
 mojime.wechat.com
-mold.0000.com
 m-olx-co-id.0.freebasics.com
 moments-photos.gotinder.com
 moms-of-infants-toddlers.meetup.com
@@ -3570,7 +3509,6 @@ mqtt-mini.facebook.com
 mqtt-p4.facebook.com
 mqtt.vvv.facebook.com
 m.qzone.qq.com
-m.0000.com
 mreg.renren.com
 m.renren.com
 ms2.twitter.com
@@ -3587,7 +3525,6 @@ mta17.myspace.com
 m.tagged.com
 m.telegram.org
 mtest.odnoklassniki.ru
-mtf.0000.com
 mt.licai.renren.com
 mtouch.facebook.com
 mtrace.qq.com
@@ -3653,8 +3590,6 @@ n0.wap.internet.org
 nach.i.org
 nairtel.internet.org
 nanny.meetup.com
-nanocurrency.0000.com
-nanotrade.0000.com
 napi-dev.internet.org
 napi.internet.org
 napoveda.linkedin.com
@@ -3695,7 +3630,6 @@ nelite-expresswifi.internet.org
 nelite-operamini.internet.org
 nen-gb.internet.org
 net.i.org
-netsec.0000.com
 net.telegram.org
 netvision-expresswifi-com.netvision.in.expresswifi.com
 netvision.in.expresswifi.com
@@ -3710,7 +3644,6 @@ newintown.meetup.com
 new.i.org
 new.myspace.com
 neworleanssaintsjersey.skyrock.com
-new.0000.com
 newsec.facebook.com
 news.line.me
 news.linkedin.com
@@ -3727,7 +3660,6 @@ nfb.internet.org
 nfb.me.internet.org
 nflalumn.i.org
 nfo.internet.org
-nf.0000.com
 nfreebasic.internet.org
 nfreebasics.com.internet.org
 nfree.freebasics.com
@@ -3757,10 +3689,8 @@ ningtisalick.skyrock.com
 nintra.internet.org
 niorg-bola-net.0.internet.org
 niorg-kapanlagi-com.0.internet.org
-ni.0000.com
 njavascript.internet.org
 njawabarat.internet.org
-nj.0000.com
 nkastrolers.internet.org
 nl.api.meetme.com
 nl.facebook.com
@@ -3773,7 +3703,6 @@ nl-nl.freebasics.com
 nlogin.internet.org
 nl.pinterest.com
 nl.profile.meetme.com
-nl.0000.com
 nl-wimg5.ask.fm
 nl.www.meetme.com
 nm4.internet.org
@@ -3783,7 +3712,6 @@ nm-goal-com.0.internet.org
 nm.instant.indosat.com.internet.org
 nm.internet.org
 nmo.indosat.com.internet.org
-nm.0000.com
 nnew.internet.org
 nnfo.internet.org
 nn.o.internet.org
@@ -3811,7 +3739,6 @@ nov.10.www.meetup.com
 nova.facebook.com
 nowa.internet.org
 npew.internet.org
-np.0000.com
 npt-br.internet.org
 nradiomaria.internet.org
 nread-worldreader-org.0.internet.org
@@ -3862,8 +3789,6 @@ ns8.renren.com
 nsa.facebook.com
 nserver4.operamini.com.internet.org
 nserver-80.internet.org
-nsfwrand.0000.com
-nsfw.0000.com
 ns.internet.org
 nsmart.portals.internet.org
 nstaging.internet.org
@@ -3878,7 +3803,6 @@ nt.i.org
 nt.linkedin.com
 ntoss.vk.com
 ntp.facebook.com
-nt.0000.com
 ntsel.internet.org
 nullmx.freebasics.com
 nunhcr.internet.org
@@ -3920,13 +3844,8 @@ o.imo.im
 o.internet.org
 o.i.org
 okcupid.com
-old.p.0000.com
-old.0000.com
-olds.0000.com
-old.www.0000.com
 ol.i.org
 olivia-wynkoop.plus.google.com
-ol.0000.com
 omnicollector.snapchat.com
 omt.shinobi.jp
 onepublicservice.m.facebook.com
@@ -3936,7 +3855,6 @@ onosproject.slack.com
 on.the.internet.org
 oonvare.internet.org
 oopperabalett.i.org
-oops.0000media.com
 op2.nagios.snapfish.com
 openapi5.snapfish.com
 openapi.qzone.qq.com
@@ -4001,7 +3919,6 @@ outbound-191-243.usw2.aws.post.pinterest.com
 outbound-255-247.usw2.aws.inspire.pinterest.com
 outbound-58-68.usw2.aws.post.pinterest.com
 outbyte.slack.com
-out.0000.com
 overseacomm.wechat.com
 owa.internet.org
 ox-d.weheartit.com
@@ -4037,11 +3954,9 @@ passets-ec.pinterest.com
 passets.pinterest.com
 passport.weibo.com
 pattinson-stewart-forum.skyrock.com
-pax.discordapp.com
 pay.line.me
 payman.periscope.tv
 payping.slack.com
-pay.0000.com
 pay.renren.com
 pay.twitter.com
 pay.wechat.com
@@ -4062,7 +3977,6 @@ pg.cdn.viber.com
 pg-vb.cdn.viber.com
 pgws.viber.com
 phantom-community.slack.com
-philadelphia.0000.com
 ph.i.org
 phishlabs.slack.com
 ph.linkedin.com
@@ -4124,7 +4038,6 @@ pi.ask.fm
 picosoft-np.np.expresswifi.com
 picosoft.np.xwf.internet.org
 pics.meetme.com
-pics.0000.com
 pic.twitter.com
 picupload.service.weibo.com
 pinfluencers.pinterest.com
@@ -4140,8 +4053,6 @@ p.internet.org
 pipe.skype.com
 pi.telegram.org
 pixel.facebook.com
-pixel.0000.com
-pixel.0000media.com
 pk.linkedin.com
 places-manager-api.snapchat.com
 place.weibo.com
@@ -4203,9 +4114,7 @@ pop-tmu1.perf.linkedin.com
 pop-tnd1.perf.linkedin.com
 pop.tw.weibo.com
 porn.in.the.internet.org
-pornvids.0000.com
 portal.snapfish.com
-portland.0000.com
 postmaster.facebook.com
 postmaster.freebasics.com
 postmaster.internet.org
@@ -4220,10 +4129,7 @@ preschool-playgroup.meetup.com
 press.internet.org
 press.linkedin.com
 preview.gotinder.com
-preview.000.it
-printer.discordapp.com
 prius.meetup.com
-privacy.0000.com
 pr.linkedin.com
 probe.twitter.com
 prod-assets.periscope.tv
@@ -4293,10 +4199,8 @@ promis.facebook.com
 promo.snapfish.com
 protm.slack.com
 proxy.plus.google.com
-ps.0000.com
 ps.vk.com
 pt.api.meetme.com
-ptb.discordapp.com
 pt-br.facebook.com
 pt-br.freebasics.com
 pt-br.internet.org
@@ -4334,7 +4238,6 @@ puta-madre-6901.skyrock.com
 pu.vk.com
 p.weibo.com
 pwinc3sss-x3.skyrock.com
-pw.0000.com
 px.ads.linkedin.com
 px.srvcs.tumblr.com
 pybfzjs.i.org
@@ -4358,7 +4261,6 @@ quartz-du-forum.skyrock.com
 queuev4.vk.com
 qun.qzone.qq.com
 quora.com
-qu.0000.com
 q.weibo.com
 qwerxtkqnmbcjjymg.i.org
 qzone.qq.com
@@ -4383,19 +4285,6 @@ read-worldreader-org.0.internet.org
 realestate.meetup.com
 real.www.flickr.com
 reda20.skyrock.com
-000.it
-0000ama.0000.com
-0000blog.com
-0000.com
-0000gifts.com
-0000gifts.s3.amazonaws.com
-0000-image.s3.amazonaws.com
-0000.kik.com
-0000.map.fastly.net
-0000media.com
-0000-stream.com
-0000-uploaded-media.s3-accelerate.amazonaws.com
-0000-uploaded-video.s3-accelerate.amazonaws.com
 ref.ask.fm
 refer.imo.im
 refstaging.ask.fm
@@ -4411,8 +4300,7 @@ renren.com
 repertoire-fics-manga.skyrock.com
 replay.periscope.tv
 reportplf.yy.com
-reprezente38-25.skyrock.com
-re.0000.com
+reprezente38-25.sk
 res01.musical.ly
 research.facebook.com
 research-platform.line.me
@@ -4426,7 +4314,6 @@ retail-aus.snapfish.com
 retailftpsfo.snapfish.com
 retail-sfo.snapfish.com
 reward.renren.com
-rhs.0000.com
 rim.vk.com
 r.inews.qq.com
 rio.myspace.com
@@ -4463,7 +4350,6 @@ ru.m.meetme.com
 ru.pinterest.com
 rupload.facebook.com
 ru.profile.meetme.com
-ru.0000.com
 ru-ru.facebook.com
 ru.ssl.meetme.com
 ru.swarmapp.com
@@ -4989,7 +4875,6 @@ sektor.i.org
 select.gotinder.com
 se.linkedin.com
 semantic-mediawik.i.org
-sendbird.0000.com
 sepia.medium.com
 se.pinterest.com
 server-3128.freebasics.com
@@ -5065,7 +4950,6 @@ simulator.freebasics.com
 simulator.intern.freebasics.com
 singles-dancing-parties.meetup.com
 s.internet.org
-sissyhypno.0000.com
 siteap.i.org
 sitel.m.facebook.com
 sitestream.twitter.com
@@ -5197,14 +5081,11 @@ s.pinimg.com.gslb.pinterest.com
 spiritatwork.meetup.com
 spl.viber.com
 sportsc.i.org
-sp.0000.com
 spring-chicken-av.twitter.com
 spring-chicken-cb.twitter.com
 spruce-goose-ak.twitter.com
 spruce-goose-aq.twitter.com
 spruce-goose-as.twitter.com
-s.0000.com
-s.0000media.com
 sr-rs.facebook.com
 srt.m.facebook.com
 srv136-180-240-87.vk.com
@@ -5217,10 +5098,8 @@ ssl.captcha.qq.com
 ssl.connect.facebook.com
 ssl.facebook.com
 ssl.meetme.com
-ssl.0000.com
 s.snapchat.com
 sso-api.snapfish.com
-ss.0000.com
 sstakk.vk.com
 sstar-academy7.skyrock.com
 s-static.ak.facebook.com
@@ -5271,8 +5150,6 @@ static.kiwibox.com
 static.licdn.com
 static.medium.com
 static.m.yy.com
-static.0000.com
-static.0000gifts.com
 static.snapfish.com
 static.tagged.com
 static.thefacebook.com
@@ -5286,8 +5163,6 @@ static.whatsapp.net
 staticxx.facebook.com
 static.xx.fbcdn.net
 stats.flickr.com
-stats.0000media.com
-status.discordapp.com
 status.twitter.com
 stat.weheartit.com
 stg.freebasics.com
@@ -5305,9 +5180,7 @@ store.snapchat.com
 store.snapfish.com
 stories.twitter.com
 stormberg.m.facebook.com
-strapi.0000.com
 streaming.vk.com
-streamkit.discordapp.com
 stream.meetme.com
 stream.meetup.com
 stream.twitter.com
@@ -5320,7 +5193,6 @@ studio.twitter.com
 stumbleupon.com
 s.twimg.com
 s.twitter.com
-styles.0000media.com
 styling-natural-black-hair.meetup.com
 subscriptions-beta.snapchat.com
 subscriptions-dev.snapchat.com
@@ -5332,7 +5204,6 @@ sun-0.internet.org
 superjob.slack.com
 superman.i.org
 support.ask.fm
-support.discordapp.com
 support.freebasics.com
 support.imo.im
 support.internet.org
@@ -5370,7 +5241,6 @@ taboolasyndication.com
 tag-gateway-use1.meetme.com
 tagged.com
 tailfeather.twimg.com
-tails.0000.com
 tailwindcss.slack.com
 tajs.qq.com
 talent.linkedin.com
@@ -5454,7 +5324,6 @@ telstra.i.org
 telstra.iph.internet.org
 telstra.net.i.org
 tempur.i.org
-te.0000.com
 terms2.line.me
 terms.line.me
 testdrive.kik.com
@@ -5568,7 +5437,6 @@ tr.myspace.com
 trocglobal.m.facebook.com
 tr.pinterest.com
 tr.profile.meetme.com
-tr.0000.com
 tr.ssl.meetme.com
 tr.swarmapp.com
 tr-tr.facebook.com
@@ -5583,7 +5451,6 @@ ts2.qq.com
 tsel.freebasics.com
 tsel.internet.org
 t.snapfish.com
-tt.0000.com
 tui.weibo.com
 tulong.linkedin.com
 tumblr.com
@@ -5610,7 +5477,6 @@ tw.weibo.com
 tz-gem-unicore-io.0.freebasics.com
 tz.linkedin.com
 u101.odnoklassniki.ru
-ud.0000.com
 ue.indoorloc.map.qq.com
 ufinanceco.slack.com
 uh.flickr.com
@@ -5627,7 +5493,6 @@ uk.pinterest.com
 ul.i.org
 umd8.odnoklassniki.ru
 unauthorized.freebasics.com
-undelete.0000.com
 unhcr.internet.org
 unicreativearts.m.facebook.com
 unitedwaymiam.i.org
@@ -5679,7 +5544,6 @@ us.linkedin.com
 us.myspace.com
 usn.i.org
 usocial.pro
-us.0000.com
 ustglobal.m.facebook.com
 us-turn.badoo.com
 us.weibo.com
@@ -5821,11 +5685,9 @@ voov.wechat.com
 v.pinimg.com
 v.pinimg.com.edgekey.net
 v.pinimg.com.gslb.pinterest.com
-vpn.0000.com
 vpn-shot.badoo.com
 vpn.tfbnw.net
 v.qzone.qq.com
-v.000.it
 v.telegram.org
 vthumb.ak.fbcdn.net
 vthumb.xx.fbcdn.net
@@ -5985,7 +5847,6 @@ white.instagram.com
 white.ish.instagram.com
 whm.freebasics.com
 whm.internet.org
-wh.0000.com
 wibiya.com
 widget.instodom.com
 widget.pushbullet.com
@@ -6139,7 +6000,6 @@ www.del.icio.us
 www.desktop.telegram.org
 www.deviantart.com
 www.dictionary.com.0.freebasics.com
-www.discordapp.com
 www.easyaccess.airtelworld.i.org
 www-espncricinfo-com.0.freebasics.com
 www.expresswifi.com
@@ -6207,9 +6067,7 @@ www.myspacecdn.com
 www.myspace.com
 www-naij-com.0.freebasics.com
 www.nonprofit.linkedin.com
-www.np.0000.com
 www.odnoklassniki.ru
-www.old.0000.com
 www.omri.sb.internet.org
 wwwo.plus.google.com
 www.pew.internet.org
@@ -6228,13 +6086,6 @@ www.purchasing.linkedin.com
 www.qq.com
 www.quora.com
 www.qzone.qq.com
-www.0000blog.com
-www.0000.com
-www.0000gifts.com
-www.0000inc.com
-www.0000media.com
-www.0000static.com
-www.0000-stream.com
 www.renren.com
 www.salesconnect.linkedin.com
 www.skyrock.com
@@ -6324,7 +6175,6 @@ xn--h1avi.telegram.org
 xn--r1a.website
 x.pluso.ru
 xpndr.skyrock.com
-xp.0000.com
 xs.tieba.baidu.com
 xwfct.in.expresswifi.com
 xx-67-diiogo-67-xx.skyrock.com
